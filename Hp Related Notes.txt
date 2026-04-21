@@ -1,0 +1,58 @@
+Hp Related Notes:
+======================
+
+credentials:
+----------
+mail- soujanya.malyala1@hp.com
+pswrd-Thrish@2906  //nov month
+emp_id : 24250392
+
+db user name-AUTH_MASO392
+db user pswrd- abcdEFGH12_@_a12
+
+hp pswrd reset
+--------------------
+
+https://hpitprod.service-now.com/$hp_new_sspr.do
+HP helpline: 0008000402233
+
+hp security mfa link
+--------
+
+https://hpitprod.service-now.com/nav_to.do?uri=%2F$hp_pwd_enrollment_form_container
+
+IGA link
+------------
+https://hpi-iga.saviyntcloud.com/ECMv6/request/requestHome
+
+here for mpo-select-public cloud account access manager
+
+GDBA
+-----
+https://db360.inc.hpicorp.net/#/accessmanagement/accountprovisioning
+
+
+Db link:
+---------
+https://db360.inc.hpicorp.net/
+
+GitHub repo path:
+-----------------
+https://github.azc.ext.hp.com/mpo
+
+https://github.azc.ext.hp.com/mpo/gpsy-integration
+ 
+https://github.azc.ext.hp.com/mpo/mpo-round-service
+ 
+Nexus:
+----------
+https://nexus-int.corp.hpicloud.net/#browse/browse
+
+Vdi restart:
+----------
+https://hpitprod.service-now.com/hpAnyware_user
+
+db example query
+---------------
+
+select * FROM MPO.MPO_USER
